@@ -2,7 +2,7 @@
 - 👀 I’m interested in Aerospace Engineering projects.
 - 🌱 I’m currently learning Docker and cloud based programms.
 - 💞️ I’m looking to collaborate on Engineering Science.
-- 📫 How to reach me: juandospinor@gmail.com
+- 📫 How to reach me:  juan.ospinor@udea.edu.co; juandospinor@gmail.com
 - ⚡ Fun fact: chaos is order yet undechipered.
 
 <!---
